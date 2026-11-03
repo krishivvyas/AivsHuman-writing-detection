@@ -1,4 +1,4 @@
-# AI vs Human Text Classifier
+﻿# AI vs Human Text Classifier
 
 A web app for the college Machine Learning project **AI-Generated vs Human-Generated Text Classification**.
 You paste text into a React dashboard. A FastAPI backend runs it through the trained
@@ -189,5 +189,3 @@ Errors return `{ "detail": "<readable message>" }`:
 
 Text that is unlike the training essays (other topics, very short passages, newer AI models) may
 score worse than the notebook's test-set metrics suggest.
-#   A i v s H u m a n - w r i t i n g - d e t e c t i o n  
- 
